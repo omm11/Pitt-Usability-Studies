@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Olivia Malvar Blog 1
-date:   2021-01-21 09:50:23
-categories: design, fan, product
+date:   2021-01-20
+categories: blog 1
 ---
 #Olivia Malvar Blog 1
 
