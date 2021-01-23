@@ -10,4 +10,4 @@ Keep this writing short and snappy! And don't be afraid to play--blogs should in
 
 You can learn more about [Markdown](https://github.com/jekyll/minima) and its creator John Gruber by clicking [HERE](https://daringfireball.net/projects/markdown/basics)
 
-You can find this template in our repository [HERE](https://github.com/sjquigley/Pitt-Usability-Studies)and you can find instructions on how to make your own blog post for this side by cicking on the [ContributorReadME](https://github.com/sjquigley/Pitt-Usability-Studies/blob/main/ContributorReadMe.markdown)
+You can find this template in our repository [HERE](https://github.com/sjquigley/Pitt-Usability-Studies) and you can find instructions on how to make your own blog post for this side by cicking on the [ContributorReadME](https://github.com/sjquigley/Pitt-Usability-Studies/blob/main/ContributorReadMe.markdown)
