@@ -1,4 +1,4 @@
-#Making Blog Contributions
+Making Blog Contributions
 
 Keep your writing short and snappy! And don't be afraid to play--blogs should informative, but also fun and entertaining. Be sure to add a visual or two. You can learn more in markdown docs. 
 
