@@ -8,7 +8,7 @@ You can learn more about [Markdown](https://github.com/jekyll/minima) and its cr
 
 1. Return to the main repository but keep this page handy. 
 
-2. Open up the "post" directory on the repo. 
+2. Open up the "_posts" directory on the repo. 
 
 3. Open the file "2021-01-19-blog-template.markdown"
 
@@ -20,11 +20,12 @@ You can learn more about [Markdown](https://github.com/jekyll/minima) and its cr
 
 7. Paste the raw code into the file and edit front matter and blog title/text to create your blog. 
 
-8. When finished, return to the GitHub repository and open up the "post" directory.
+8. When finished, return to the GitHub repository and open up the "_posts" directory.
 
 9. Click on "Add file" on the right-hand side. In the drop-down select "Create new file."
 
-10. Name the new file using the following format 2021-01-19-Name-Here.markdown
+10. Name the new file using the following format YYYY-MM-DD-Name-Here.markdown (for example: 2021-01-25-StephenQuigley.markdown) 
+__***IMPORTANT: you have to make sure that the name is unique for each post or else the blog will be confused about which post to use***__
 
 11. Copy your blog post text and paste it into this new file. 
 
