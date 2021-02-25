@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Design that Excites: Amazon's Alexa"
-date:   2021-02-25 08:48:05 
-categories:  'Alexa', 'design', 'technology'
+title: "Design that Excites: Amazon's Alexa"
+date: 2021-02-25 08:48:05 
+categories: Alexa design technology
 ---
-# Design that Excites: Amazon's Alexa
+#Design that Excites: Amazon's Alexa
 
 I've always appreciated a good design, even before I really knew what design was. I love when something is easy to use, I love when something is aesthetically pleasing, and I *especially* love when something is both.
 
