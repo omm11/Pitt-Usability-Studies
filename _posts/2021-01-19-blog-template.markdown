@@ -4,7 +4,6 @@ title:  "Template...Add your title!"
 date:   2021-01-05 22:31:05 -0500
 categories: add keywords
 ---
-#Blog Title
 
 By Steve (Please leave a first name by-line)
 
