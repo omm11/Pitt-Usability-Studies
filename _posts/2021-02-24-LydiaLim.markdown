@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "An Example of Good Design"
+date:   2021-01-20 11:20:05 -0500
+categories: intuitive simple clean balanced
+---
+#What I Consider Good Design
+
+I think a good design is one that is simple, clean and intuitive, which serves to support and enhance the main content as well as the purpose of the object of the design. For example, I think using consistent and simple color scheme that associates the colors with particular components more effectively distinguishes different groups of components/sections of a layout and hence improves user experience rather than using vast array of random colors on each individual element. Moreover, I think a good design adds only the essential content (e.g. image, text, buttons, links etc.) that tactfully uses space, proportion, and colors.
+
+![TurboTax User Interface](https://miro.medium.com/max/4800/1*VrzC2DiqsQC6fdGrDmp4bQ.png)
+
+
+
+---
