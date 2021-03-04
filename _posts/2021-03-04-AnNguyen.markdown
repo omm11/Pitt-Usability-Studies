@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Good Design Lies in the Hands of Nature"
+date:   2021-01-05 22:31:05 -0500
+categories: logo, design, fine arts, mathematics, golden ratio
+---
+
+By An 
+
+I currently study Studio Arts and Interaction Design here at Pitt. I also intern as a Visual Designer at a tech startup during which I design anything from websites, to logos, to lifestyle goods, and social media posts. Considering my work and fields of study, I am particularly drawn to designs that contain artistic elements while also following mathematical sets of rules that are commonly utilized within the fine arts world. 
+
+A classic example of one of these "rules" is the *Golden Ratio*, which indicates that designs created using a naturally occurring 1 to 1.618 ratio are particularly visually pleasing. Notable examples of designs that implement this ratio are the Apple and Twitter logo, to which I attach links below. Nearly everyone who maintains a digital presence or uses electronics is familiar with these designs, and both can be easily recognized in everyday life. That’s the thing about designs that utilize the *Golden Ratio* - they’re often simple yet ubiquitous due to being memorable and recognizable. It’s almost as if this organic ratio triggers something instinctual in us as human beings. 
+
+Both following nature's *Golden Ratio*, Apple and Twitter's logos can be found [HERE](https://rapidpurple.com/v2/wp-content/uploads/2015/04/twitter-apple.jpg)
+
+
